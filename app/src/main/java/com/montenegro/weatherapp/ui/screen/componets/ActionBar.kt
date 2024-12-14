@@ -1,4 +1,4 @@
-package com.montenegro.weatherapp.ui.screen.components
+package com.montenegro.weatherapp.ui.screen.componets
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -26,10 +26,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.montenegro.weatherapp.R
-import com.montenegro.weatherapp.ui.screen.componets.customShadow
 import com.montenegro.weatherapp.ui.theme.ColorGradient1
 import com.montenegro.weatherapp.ui.theme.ColorGradient2
 import com.montenegro.weatherapp.ui.theme.ColorGradient3
